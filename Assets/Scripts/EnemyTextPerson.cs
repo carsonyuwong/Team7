@@ -6,6 +6,7 @@ public class EnemyTextPerson : Collidable
 {
     public string[] message;
     public int textSize;
+    public float spaceAbove;
     private float coolDown = 4.0f;
     private float lastShout;
 
@@ -20,7 +21,7 @@ public class EnemyTextPerson : Collidable
         if (Time.time - lastShout > coolDown)
         {
             lastShout = Time.time;
-            GameManager.instance.ShowText(message[Random.Range(0, message.Length)], textSize, Color.red, transform.position + new Vector3(0, 0.16f, 0), Vector3.zero, coolDown);
+            GameManager.instance.ShowText(message[Random.Range(0, message.Length)], textSize, Color.red, transform.position + new Vector3(0, spaceAbove, 0), Vector3.zero, coolDown);
         }
     }
 }

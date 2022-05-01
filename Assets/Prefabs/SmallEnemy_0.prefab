@@ -181,6 +181,7 @@ MonoBehaviour:
   - The ride never ends
   - DOOT DOOT
   textSize: 15
+  spaceAbove: 0.14
 --- !u!1 &3730903689023306301
 GameObject:
   m_ObjectHideFlags: 0
