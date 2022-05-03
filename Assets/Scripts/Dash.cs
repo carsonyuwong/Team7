@@ -43,7 +43,7 @@ public class Dash : MonoBehaviour
 
         //if the space abr is being pressed the movement speed is equal to the dash speed
         //aka dash initiated
-        if(Input.GetKeyDown(KeyCode.Space)){
+        if(Input.GetKeyDown(KeyCode.Q)){
             activeMoveSpeed = dashSpeed;
             dashCount = dashLength;
 
