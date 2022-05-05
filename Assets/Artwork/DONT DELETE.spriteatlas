@@ -89,6 +89,7 @@ SpriteAtlas:
   - {fileID: 919572419, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1724399281, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -229846141, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+  - {fileID: 911698875, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -1084525765, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1332492295, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1507025774, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
@@ -168,6 +169,7 @@ SpriteAtlas:
   - enemy_0
   - floor_10
   - enemy_1
+  - enemy_2
   - floor_12
   - deco_1
   - deco_0
