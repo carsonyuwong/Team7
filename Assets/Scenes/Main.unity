@@ -9634,7 +9634,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 31
-      m_TileSpriteIndex: 7
+      m_TileSpriteIndex: 18
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -9694,7 +9694,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 10
-      m_TileSpriteIndex: 6
+      m_TileSpriteIndex: 7
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -9754,7 +9754,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 6
-      m_TileSpriteIndex: 3
+      m_TileSpriteIndex: 6
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -10769,16 +10769,16 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 52
     m_Data: {fileID: 1456393168, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -283286903, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 2
     m_Data: {fileID: 370612188, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 493085056, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: 811436565, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+    m_Data: {fileID: -283286903, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -2126793823, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+    m_Data: {fileID: 811436565, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -1767519143, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 2
@@ -10799,8 +10799,8 @@ Tilemap:
     m_Data: {fileID: 1724399281, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -823775264, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: -2126793823, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 729259320, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - m_RefCount: 1
@@ -18861,7 +18861,7 @@ MonoBehaviour:
   isInvincible: 0
   speed: 0.5
   rb: {fileID: 943023262610753088}
-  dashSpeed: 4
+  dashSpeed: 3
   dashLength: 0.25
   dashCooldown: 10
 --- !u!50 &943023262610753088
