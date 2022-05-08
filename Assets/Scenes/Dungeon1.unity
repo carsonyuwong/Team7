@@ -109643,7 +109643,6 @@ Transform:
   - {fileID: 1213471035}
   - {fileID: 975042015}
   - {fileID: 1036216038618797640}
-  - {fileID: 1935105336}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -109783,23 +109782,23 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 808328911}
+    m_TransformParent: {fileID: 1949923732}
     m_Modifications:
     - target: {fileID: 6611902597492083840, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 6611902597492083840, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.783697
+      value: -7.7116103
       objectReference: {fileID: 0}
     - target: {fileID: 6611902597492083840, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.8688784
+      value: -4.085955
       objectReference: {fileID: 0}
     - target: {fileID: 6611902597492083840, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.08065269
+      value: 0.050492227
       objectReference: {fileID: 0}
     - target: {fileID: 6611902597492083840, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -109840,6 +109839,10 @@ PrefabInstance:
     - target: {fileID: 6611902597492083843, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: sceneNames.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6611902597492083843, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
+      propertyPath: sceneNames.Array.data[0]
+      value: Dungeon2
       objectReference: {fileID: 0}
     - target: {fileID: 6611902597492083843, guid: 6594f5ea4ebb01044956c34a6555205b, type: 3}
       propertyPath: sceneNames.Array.data[1]
@@ -120859,6 +120862,7 @@ Transform:
   - {fileID: 80475113}
   - {fileID: 1278075923}
   - {fileID: 978084942}
+  - {fileID: 1935105336}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
