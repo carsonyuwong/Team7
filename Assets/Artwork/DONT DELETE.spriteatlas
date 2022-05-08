@@ -89,6 +89,7 @@ SpriteAtlas:
   - {fileID: 919572419, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1724399281, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -229846141, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+  - {fileID: 911698875, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -1084525765, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1332492295, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1507025774, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
@@ -98,6 +99,7 @@ SpriteAtlas:
   - {fileID: 2104592367, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 152684927, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -634807681, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+  - {fileID: -1810640394, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1113506864, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 952411570, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 722155749, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
@@ -168,6 +170,7 @@ SpriteAtlas:
   - enemy_0
   - floor_10
   - enemy_1
+  - enemy_2
   - floor_12
   - deco_1
   - deco_0
@@ -177,6 +180,7 @@ SpriteAtlas:
   - player_0
   - deco_5
   - deco_4
+  - player_2
   - deco_7
   - deco_6
   - deco_9
