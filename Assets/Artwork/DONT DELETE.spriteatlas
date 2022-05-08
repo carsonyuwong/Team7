@@ -99,7 +99,6 @@ SpriteAtlas:
   - {fileID: 2104592367, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 152684927, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -634807681, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
-  - {fileID: -1810640394, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 1113506864, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 952411570, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 722155749, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
@@ -180,7 +179,6 @@ SpriteAtlas:
   - player_0
   - deco_5
   - deco_4
-  - player_2
   - deco_7
   - deco_6
   - deco_9

@@ -1750,7 +1750,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1758,27 +1758,6 @@ TextureImporter:
       bones: []
       spriteID: 53e0146308c121b45b98ae6d392a5147
       internalID: 911698875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: player_2
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ed3be1ee799578498c7e84791f9597a
-      internalID: -1810640394
       vertices: []
       indices: 
       edges: []
@@ -1826,7 +1805,6 @@ TextureImporter:
       enemy_0: 919572419
       torch_4: -1021551241
       boss_0: -872617864
-      player_2: -1810640394
       skull_0: -415432817
       weapon_5: -714561588
       pillar_3: -250783867

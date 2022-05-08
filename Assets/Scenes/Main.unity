@@ -8138,7 +8138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelText: {fileID: 354518776}
   hitpointText: {fileID: 1093185448}
-  goldText: {fileID: 1273783533}
+  goldText: {fileID: 0}
   upgradeCostText: {fileID: 1560612650}
   xpText: {fileID: 1599225248}
   characterSelectionSprite: {fileID: 1083369298}
