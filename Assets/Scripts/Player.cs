@@ -7,6 +7,8 @@ public class Player : Mover
     private SpriteRenderer spriteRenderer;
     private bool isAlive = true;
 
+    public Dash d;
+
     protected override void Start()
     {
         base.Start();
@@ -15,6 +17,11 @@ public class Player : Mover
 
     protected override void RecieveDamage(Damage dmg)
     {
+        //check for iframes
+        if(d.isInvincible)
+            return;
+
+        //check if alive    
         if (!isAlive)
             return;
 

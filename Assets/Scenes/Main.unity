@@ -18739,6 +18739,10 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 943023261912361452, guid: b09b165ae7b83ef46a503554cf267c57, type: 3}
+      propertyPath: d
+      value: 
+      objectReference: {fileID: 943023262610753085}
+    - target: {fileID: 943023261912361452, guid: b09b165ae7b83ef46a503554cf267c57, type: 3}
       propertyPath: hitpoint
       value: 5
       objectReference: {fileID: 0}
@@ -18861,7 +18865,7 @@ MonoBehaviour:
   isInvincible: 0
   speed: 0.5
   rb: {fileID: 943023262610753088}
-  dashSpeed: 3
+  dashSpeed: 2
   dashLength: 0.25
   dashCooldown: 10
 --- !u!50 &943023262610753088
