@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class MainMenu : MonoBehaviour
 {
+    void Start()
+    {
+        Screen.SetResolution(800, 600, false);
+    }
+    
     public void startButton()
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Main", UnityEngine.SceneManagement.LoadSceneMode.Single);
