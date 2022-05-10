@@ -18744,11 +18744,11 @@ PrefabInstance:
       objectReference: {fileID: 943023262610753085}
     - target: {fileID: 943023261912361452, guid: b09b165ae7b83ef46a503554cf267c57, type: 3}
       propertyPath: hitpoint
-      value: 15
+      value: 1500
       objectReference: {fileID: 0}
     - target: {fileID: 943023261912361452, guid: b09b165ae7b83ef46a503554cf267c57, type: 3}
       propertyPath: maxHitpoint
-      value: 15
+      value: 1500
       objectReference: {fileID: 0}
     - target: {fileID: 943023261912361452, guid: b09b165ae7b83ef46a503554cf267c57, type: 3}
       propertyPath: pushRecoverSpeed
