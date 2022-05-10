@@ -77,6 +77,7 @@ SpriteAtlas:
   - {fileID: 1456393168, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -823775264, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -103743724, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
+  - {fileID: -224627556, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -415432817, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: 597904492, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
   - {fileID: -250783867, guid: c521f16e266a7bc48bd873e77482e71a, type: 3}
@@ -158,6 +159,7 @@ SpriteAtlas:
   - wall_0
   - stairs_4
   - wall_1
+  - potion_1
   - skull_0
   - pillar_2
   - pillar_3

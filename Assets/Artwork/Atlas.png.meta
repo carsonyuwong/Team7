@@ -1771,7 +1771,7 @@ TextureImporter:
         width: 16
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1779,6 +1779,27 @@ TextureImporter:
       bones: []
       spriteID: 4ed3be1ee799578498c7e84791f9597a
       internalID: -1810640394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7968f1547d9a49198936c4fc579638c
+      internalID: -224627556
       vertices: []
       indices: 
       edges: []
@@ -1840,6 +1861,7 @@ TextureImporter:
       torch_1: -1023705272
       floor_0: 1357633857
       player_1: -907603148
+      potion_1: -224627556
       weapon_0: -159715361
       enemy_1: -229846141
       pillar_4: -1026034845
